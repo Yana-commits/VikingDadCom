@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\MutantController.cs" />
     <Compile Include="Assets\Scripts\CreatureAnimator.cs" />
     <Compile Include="Assets\Scripts\MutantDestructable.cs" />
+    <Compile Include="Assets\Scripts\MutantHealthBar.cs" />
     <Compile Include="Assets\Scripts\SphereSpawner.cs" />
     <Compile Include="Assets\Scripts\Data\PlayerSettings.cs" />
     <Compile Include="Assets\Scripts\LifeSfere.cs" />
@@ -73,7 +74,6 @@
     <Compile Include="Assets\Scripts\Data\MutantSettings.cs" />
     <Compile Include="Assets\Scripts\MutantSpawner.cs" />
     <Compile Include="Assets\Scripts\HUD\HUD.cs" />
-    <Compile Include="Assets\Scripts\MutantHealthBar.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
